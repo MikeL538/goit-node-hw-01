@@ -1,0 +1,19 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Mikel538",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
